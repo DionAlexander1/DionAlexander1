@@ -23,7 +23,7 @@
 
 - <b>Python</b>
   - [Using a Python script to scan IP addresses for open ports](https://github.com/DionAlexander1/Python-port-scanner)
-  - [Using a Python script to hash a file](https://github.com/sidiaz1991/VPN-setup)
+  - [Using a Python script to hash a file](https://github.com/DionAlexander1/File-hash)
 
 
 <h2>🤳Connect with me:</h2>
