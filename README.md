@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/chrisignas/Azure-Honeynet-SOC)                        
+  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/DionAlexander1/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)                        
   - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/chrisignas/setup-azure-sentinel)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
