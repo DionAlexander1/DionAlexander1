@@ -26,17 +26,6 @@
   - [Using a Python script to hash a file](https://github.com/DionAlexander1/File-hash)
 
 
-<h2>Connect with me:</h2>
-
-[<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/dion-alexander-682b04233/
-
-
-
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,3 +36,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DionAlexander1&show_icons=true&locale=en" alt="DionAlexander1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DionAlexander1&" alt="DionAlexander1" /></p>
+
+
+
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/dion-alexander-682b04233/
+
