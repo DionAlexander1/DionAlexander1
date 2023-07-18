@@ -26,12 +26,24 @@
   - [Using a Python script to hash a file](https://github.com/DionAlexander1/File-hash)
 
 
-<h2>🤳Connect with me:</h2>
+<h2>Connect with me:</h2>
 
-[<img align="left" alt="Chris | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Chris | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/dion-alexander-682b04233/
+
+
+
+
+
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img  </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DionAlexander1&show_icons=true&locale=en&layout=compact" alt="DionAlexander1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DionAlexander1&show_icons=true&locale=en" alt="DionAlexander1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DionAlexander1&" alt="DionAlexander1" /></p>
