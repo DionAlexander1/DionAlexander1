@@ -11,7 +11,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/DionAlexander1/Configuring-Active-Directory-with-Azure-VM-s)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DionAlexander1/Network-Security-Groups-and-inspecting-traffic-between-Azure-Virtual-Machines-NSG-s-)
-  - [Configuring DNS settings within Azure VMs](https://github.com/chrisignas/configure-dns)
+  - [Configuring DNS settings within Azure VMs](https://github.com/DionAlexander1/Configuring-DNS-settings-within-Azure)
   - [Network File Shares and Permissions within Azure VMs](https://github.com/chrisignas/configure-network-file-shares-and-permissions)
   - [VPN: VPN Setup and Usage (Proton VPN)](https://github.com/sidiaz1991/VPN-setup)
 - <b>osTicket (Help Desk Ticketing System)</b>
