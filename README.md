@@ -15,7 +15,7 @@
   - [Network File Shares and Permissions within Azure VMs](https://github.com/DionAlexander1/Network-file-shares-and-positions-within-Azure-VMs)
   - [VPN: VPN Setup and Usage (Proton VPN)](https://github.com/DionAlexander1/VPN-setup)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/chrisignas/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/DionAlexander1/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/chrisignas/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/chrisignas/ticket-lifecycle)
     
