@@ -17,7 +17,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/DionAlexander1/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/DionAlexander1/Post-installation-configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/chrisignas/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/DionAlexander1/Ticket-life-cycle-examples)
     
 <h2>👨‍💻 Programming Projects:</h2>
 
