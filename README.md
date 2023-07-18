@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/DionAlexander1/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)                        
-  - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/chrisignas/setup-azure-sentinel)
+  - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/DionAlexander1/Setup-a-SIEM-in-Microsoft-Azure-Sentinel-)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
