@@ -1,10 +1,13 @@
-<h1>Hi, I'm Dion, an <a href="https://www.linkedin.com/in/dion-alexander-682b04233/">IT and Cybersecurity Professional</a> 💻🛡🌨️</h1>
+<h1>Hi, I'm Dion, an <a href="https://www.linkedin.com/in/dion-alexander-682b04233/">IT and Cybersecurity Professional</a> 💻🛡</h1>
 
 <h2>🎭 Cybersecurity Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/DionAlexander1/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)                        
   - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/DionAlexander1/Setup-a-SIEM-in-Microsoft-Azure-Sentinel-)
+ 
+- <b>Offensive Security</b>
+  - [Coding Dojo Graduation Capstone (Penetration Test)](https://github.com/DionAlexander1/Setup-a-SIEM-in-Microsoft-Azure-Sentinel-)
 
 <h2>💻 Information Technology Projects:</h2>
 
