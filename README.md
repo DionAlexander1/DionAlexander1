@@ -5,9 +5,10 @@
 - <b>Microsoft Azure</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/DionAlexander1/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)                        
   - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/DionAlexander1/Setup-a-SIEM-in-Microsoft-Azure-Sentinel-)
+  - [Azure Vulnerability Management Lab (OpenVAS)](https://github.com/DionAlexander1/OpenVAS)
  
 - <b>Offensive Security</b>
-  - [Coding Dojo Graduation Capstone (Penetration Test)](https://github.com/DionAlexander1/Ethical-Hacking-Lab-Final-Exam)
+  - [Coding Dojo Graduation Capstone (Penetration Test/Ethical Hacking)](https://github.com/DionAlexander1/Ethical-Hacking-Lab-Final-Exam)
 
 <h2>💻 Information Technology Projects:</h2>
 
