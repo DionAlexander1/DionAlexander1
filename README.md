@@ -7,7 +7,7 @@
   - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/DionAlexander1/Setup-a-SIEM-in-Microsoft-Azure-Sentinel-)
  
 - <b>Offensive Security</b>
-  - [Coding Dojo Graduation Capstone (Penetration Test)](https://github.com/DionAlexander1/Setup-a-SIEM-in-Microsoft-Azure-Sentinel-)
+  - [Coding Dojo Graduation Capstone (Penetration Test)](https://github.com/DionAlexander1/Ethical-Hacking-Lab-Final-Exam)
 
 <h2>💻 Information Technology Projects:</h2>
 
